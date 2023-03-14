@@ -1,0 +1,22 @@
+{
+  "blog": [
+    {
+      "title": "New Places to visit",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, eligendi quod atque dolores, obcaecati dolorum, quia dolor eos laboriosam ipsa voluptatibus quae omnis tempora.",
+      "author": "Ashar",
+      "id": 1
+    },
+    {
+      "title": "Places to visit in summer",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, eligendi quod atque dolores, obcaecati dolorum, quia dolor eos laboriosam ipsa voluptatibus quae omnis tempora.",
+      "author": "Ashar",
+      "id": 2
+    },
+    {
+      "title": "Hidden gems in Dubai",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, eligendi quod atque dolores, obcaecati dolorum, quia dolor eos laboriosam ipsa voluptatibus quae omnis tempora.",
+      "author": "Ashar",
+      "id": 3
+    }
+  ]
+}
